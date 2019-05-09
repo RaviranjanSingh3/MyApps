@@ -4,6 +4,8 @@ public class Admin {
 private int adminId;
 
 
+
+//ksmk
 public int getAdminId() {
 	return adminId;
 }
